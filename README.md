@@ -6,3 +6,7 @@ to fix:
 - add message to all players when game is over
 - etc.
 
+to play game:
+- compile with "npx tsx"
+- run server with node/dist/server.js
+- run 2 clients with node/dist/client.js
