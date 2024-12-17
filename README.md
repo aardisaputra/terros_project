@@ -1,3 +1,10 @@
+demo:
+
+
+https://github.com/user-attachments/assets/1ea261a6-f5c8-4d30-9ceb-a756d705b89b
+
+
+
 contains: test cases with jest in typescript, movement validation for all pieces, multiplayer with WebSocket
 
 to fix:
