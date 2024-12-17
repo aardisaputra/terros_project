@@ -8,5 +8,5 @@ to fix:
 
 to play game:
 - compile with "npx tsx"
-- run server with node/dist/server.js
-- run 2 clients with node/dist/client.js
+- run server with "node dist/server.js"
+- run 2 clients with "node dist/client.js"
